@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "open-seo-api-executor",
+    "name": "open-seo-api",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "gg1jibcia4"
+  }
+}
